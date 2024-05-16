@@ -7,3 +7,10 @@ header{
   top: 0;
   z-index: 100;
 }
+.bg{
+  background-image: url(img/header-bg.png);
+}
+
+.dotted-border {
+  border: 3px dotted black; /* Ganti warna sesuai keinginan */
+}
